@@ -1,0 +1,271 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Mashreq Bank Credit Card Information</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f7f7f7;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      max-width: 1000px;
+      margin: auto;
+      background: #ffffff;
+      padding: 20px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    }
+    h1, h2 {
+      color: #004c97;
+    }
+    ul {
+      line-height: 1.8;
+    }
+    .card {
+      background-color: #e8f0fe;
+      padding: 15px;
+      margin-bottom: 20px;
+      border-left: 5px solid #004c97;
+    }
+    form {
+      background-color: #f1f1f1;
+      padding: 20px;
+      border-radius: 8px;
+    }
+    input, textarea, select, button {
+      width: 100%;
+      padding: 10px;
+      margin: 10px 0;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+    }
+    button {
+      background-color: #004c97;
+      color: white;
+      border: none;
+      cursor: pointer;
+    }
+    button:hover {
+      background-color: #003366;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Mashreq Bank Credit Card Details</h1><div class="card">
+  <h2>Overview</h2>
+  <p>Mashreq Bank offers a range of credit cards tailored for shopping, travel, cashback, and lifestyle benefits.</p>
+</div>
+
+<div class="card">
+  <h2>Key Features</h2>
+  <ul>
+    <li>Up to 55 days of interest-free credit</li>
+    <li>Flexible payment options</li>
+    <li>Exclusive offers and discounts</li>
+    <li>Rewards and cashback programs</li>
+    <li>Free airport lounge access with select cards</li>
+  </ul>
+</div>
+
+<div class="card">
+  <h2>Eligibility Criteria</h2>
+  <ul>
+    <li>Minimum monthly salary: AED 5,000 (varies by card)</li>
+    <li>UAE resident</li>
+    <li>Age: 21 years and above</li>
+    <li>Salaried or self-employed</li>
+  </ul>
+</div>
+
+<div class="card">
+  <h2>Required Documents</h2>
+  <ul>
+    <li>Copy of valid Emirates ID</li>
+    <li>Copy of passport with residence visa page</li>
+    <li>Salary certificate (dated within the last 30 days)</li>
+    <li>Bank statement (last 3–6 months)</li>
+    <li>Trade license (if self-employed)</li>
+  </ul>
+</div>
+
+<div class="card">
+  <h2>How to Apply</h2>
+  <p>Visit the <a href="https://www.mashreqbank.com" target="_blank">official Mashreq Bank website</a> or visit a nearby branch. You can also apply via their mobile app.</p>
+</div>
+
+<div class="card">
+  <h2>Compare Cards</h2>
+  <ul>
+    <li><strong>Platinum Elite Card:</strong> Best for frequent travelers, with lounge access and travel insurance.</li>
+    <li><strong>Smart Saver Card:</strong> Great for cashback on groceries, fuel, and utility bills.</li>
+    <li><strong>Noor Credit Card:</strong> Shariah-compliant with flexible payment options.</li>
+  </ul>
+</div>
+
+<div class="card">
+  <h2>Contact / Apply Now</h2>
+  <form>
+    <label for="name">Full Name</label>
+    <input type="text" id="name" name="name" placeholder="Your name" required />
+
+    <label for="email">Email</label>
+    <input type="email" id="email" name="email" placeholder="Your email" required />
+
+    <label for="phone">Phone Number</label>
+    <input type="tel" id="phone" name="phone" placeholder="Your phone number" required />
+
+    <label for="card">Select a Card</label>
+    <select id="card" name="card">
+      <option value="platinum">Platinum Elite Card</option>
+      <option value="smart">Smart Saver Card</option>
+      <option value="noor">Noor Credit Card</option>
+    </select>
+
+    <label for="message">Message</label>
+    <textarea id="message" name="message" rows="4" placeholder="Any specific queries..."></textarea>
+
+    <button type="submit">Submit</button>
+  </form>
+</div>
+
+  </div>
+</body>
+</html><!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Mashreq Bank Credit Card Information</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f7f7f7;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      max-width: 1000px;
+      margin: auto;
+      background: #ffffff;
+      padding: 20px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    }
+    h1, h2 {
+      color: #004c97;
+    }
+    ul {
+      line-height: 1.8;
+    }
+    .card {
+      background-color: #e8f0fe;
+      padding: 15px;
+      margin-bottom: 20px;
+      border-left: 5px solid #004c97;
+    }
+    form {
+      background-color: #f1f1f1;
+      padding: 20px;
+      border-radius: 8px;
+    }
+    input, textarea, select, button {
+      width: 100%;
+      padding: 10px;
+      margin: 10px 0;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+    }
+    button {
+      background-color: #004c97;
+      color: white;
+      border: none;
+      cursor: pointer;
+    }
+    button:hover {
+      background-color: #003366;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Mashreq Bank Credit Card Details</h1><div class="card">
+  <h2>Overview</h2>
+  <p>Mashreq Bank offers a range of credit cards tailored for shopping, travel, cashback, and lifestyle benefits.</p>
+</div>
+
+<div class="card">
+  <h2>Key Features</h2>
+  <ul>
+    <li>Up to 55 days of interest-free credit</li>
+    <li>Flexible payment options</li>
+    <li>Exclusive offers and discounts</li>
+    <li>Rewards and cashback programs</li>
+    <li>Free airport lounge access with select cards</li>
+  </ul>
+</div>
+
+<div class="card">
+  <h2>Eligibility Criteria</h2>
+  <ul>
+    <li>Minimum monthly salary: AED 5,000 (varies by card)</li>
+    <li>UAE resident</li>
+    <li>Age: 21 years and above</li>
+    <li>Salaried or self-employed</li>
+  </ul>
+</div>
+
+<div class="card">
+  <h2>Required Documents</h2>
+  <ul>
+    <li>Copy of valid Emirates ID</li>
+    <li>Copy of passport with residence visa page</li>
+    <li>Salary certificate (dated within the last 30 days)</li>
+    <li>Bank statement (last 3–6 months)</li>
+    <li>Trade license (if self-employed)</li>
+  </ul>
+</div>
+
+<div class="card">
+  <h2>How to Apply</h2>
+  <p>Visit the <a href="https://www.mashreqbank.com" target="_blank">official Mashreq Bank website</a> or visit a nearby branch. You can also apply via their mobile app.</p>
+</div>
+
+<div class="card">
+  <h2>Compare Cards</h2>
+  <ul>
+    <li><strong>Platinum Elite Card:</strong> Best for frequent travelers, with lounge access and travel insurance.</li>
+    <li><strong>Smart Saver Card:</strong> Great for cashback on groceries, fuel, and utility bills.</li>
+    <li><strong>Noor Credit Card:</strong> Shariah-compliant with flexible payment options.</li>
+  </ul>
+</div>
+
+<div class="card">
+  <h2>Contact / Apply Now</h2>
+  <form>
+    <label for="name">Full Name</label>
+    <input type="text" id="name" name="name" placeholder="Your name" required />
+
+    <label for="email">Email</label>
+    <input type="email" id="email" name="email" placeholder="Your email" required />
+
+    <label for="phone">Phone Number</label>
+    <input type="tel" id="phone" name="phone" placeholder="Your phone number" required />
+
+    <label for="card">Select a Card</label>
+    <select id="card" name="card">
+      <option value="platinum">Platinum Elite Card</option>
+      <option value="smart">Smart Saver Card</option>
+      <option value="noor">Noor Credit Card</option>
+    </select>
+
+    <label for="message">Message</label>
+    <textarea id="message" name="message" rows="4" placeholder="Any specific queries..."></textarea>
+
+    <button type="submit">Submit</button>
+  </form>
+</div>
+
+  </div>
+</body>
+</html>
